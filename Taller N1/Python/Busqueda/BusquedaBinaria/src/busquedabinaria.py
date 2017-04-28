@@ -6,7 +6,7 @@ def BusquedaBinaria(lista, first, last, target):
     if (first > last):
         index = -1  # Objetivo no en la lista original
     else:
-        # If target is in list
+        # Si el objetivo está en la lista
         # lista[primero] <= Objetivo <= lista[ultimo]
         mid = int(first + (last - first)/2)
         if (target == lista[mid]):
