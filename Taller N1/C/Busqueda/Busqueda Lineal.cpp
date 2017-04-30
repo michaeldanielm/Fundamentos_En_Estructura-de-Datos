@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Busqueda Binaria.cpp
+// Name        : Busqueda Lineal.cpp
 // Author      : MICHAEL DANIEL Murillo López
 // iD    : 534830
 // Description : La búsqueda lineal probablemente es sencilla de implementar e intuitiva.
