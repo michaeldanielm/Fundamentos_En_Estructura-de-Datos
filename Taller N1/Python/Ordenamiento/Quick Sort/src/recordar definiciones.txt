@@ -1,0 +1,3 @@
+# pivotamiento= pivotvalue
+# Definición: 
+# Movimiento circular que se produce en el contacto de dos sólidos que giran, con velocidad relativa alrededor del eje perpendicular a uno de ellos, en el teórico punto de contacto.
